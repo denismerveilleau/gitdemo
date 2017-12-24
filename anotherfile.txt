@@ -1,6 +1,10 @@
 Ce fichier vient de fedora
 et je me le modifie depuis Github
+<<<<<<< HEAD
 puis  fedora
 et encore fedora
 
-encore et encore
+=======
+puis depuis fedora
+un autre commit pour l'exo
+>>>>>>> e99a8ce86dd25f9846ded688bceffea0ff7824c9
